@@ -1,6 +1,6 @@
 ## This is my first blog post!
 
-## iCloud Drive Sync on Windows will not progress
+## iCloud Drive Sync on Windows will not progress and how I fixed it
 
 
 After restoring from a crash, my iCloud drive stopped synchronizing and was not updating files. My guess is that iCloud does a sort of local or server-side scanning of files which will cause it to stop processing further files if it fails for a reason.
